@@ -150,9 +150,9 @@ The Animal Intrusion Detection and Deterrence System offers a significant advanc
 
 For more information, please contact:
 
-- **Nandhana S** - nandhana@example.com
+- **Nandhana S** - nandhana2110145@ssn.edu.in
 - **Purushothaman P** - purushothaman2110796@ssn.edu.in
-- **Vijay V** - vijay@example.com
+- **Vijay V** - vijay2110746@ssn.edu.in
 - **Ranjith S** - ranjith2112052@ssn.edu.in
 
 ---
