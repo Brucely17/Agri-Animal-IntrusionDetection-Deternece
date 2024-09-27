@@ -1,6 +1,3 @@
-Sure! Here is an updated README file for the GitHub repository, incorporating the new information and removing the existing methods section as requested.
-
----
 
 # Animal Intrusion Detection and Deterrence System
 
@@ -155,6 +152,4 @@ For more information, please contact:
 - **Vijay V** - vijay2110746@ssn.edu.in
 - **Ranjith S** - ranjith2112052@ssn.edu.in
 
----
 
-Feel free to modify the contact information, installation steps, and any other details as needed for your specific project and team. Don't forget to add the actual image files in the `images` directory in your repository.
